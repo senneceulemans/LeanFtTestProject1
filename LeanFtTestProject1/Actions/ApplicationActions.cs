@@ -11,6 +11,7 @@ using LeanFtTestProject1.FrameWork;
 namespace LeanFtTestProject1.Tasks
 {
     static class ApplicationTasks
+
     {
         public static void LaunchApplication()
         {
