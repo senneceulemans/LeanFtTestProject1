@@ -13,6 +13,8 @@ namespace LeanFtTestProject1.Tasks
     static class ApplicationTasks
 
     {
+
+
         public static void LaunchApplication()
         {
             IBrowser browser = BrowserFactory.Launch(BrowserType.InternetExplorer);
