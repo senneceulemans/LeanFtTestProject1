@@ -24,6 +24,9 @@ namespace LeanFtTestProject1.Tasks
         }
 
 
+
+
+
         public static void CloseApplication()
         {
             TestController.Instance.Browser.CloseAllTabs();           
